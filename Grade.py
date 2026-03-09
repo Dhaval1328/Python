@@ -9,6 +9,7 @@ elif per >= 75:
 elif per >= 60:
     print("Grade C")
 elif per >= 40:
-    print("Grade D")
+    print("Grade D ")
 else:
     print("Fail")
+
