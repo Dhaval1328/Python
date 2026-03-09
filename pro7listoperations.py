@@ -38,7 +38,7 @@ print("list1[-1:-3]:", list1[-1:-3])
 print("Length of list2:", len(list2))
 
 # ix. Maximum element in list1 (numbers only)
-print("Max in list1:", max([x for x in list1 if type(x) == int]))
+print("Max in list1: ", max([x for x in list1 if type(x) == int]))
 
 # x. Minimum element in list2
 print("Min in list2:", min(list2))
@@ -65,3 +65,4 @@ print("Reversed list1:", list1)
 # xvi. Sort list2 in descending order
 list2.sort(reverse=True)
 print("Descending list2:", list2)
+
