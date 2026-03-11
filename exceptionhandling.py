@@ -7,7 +7,7 @@ try:
     print("Result is:", result)
     
 except ValueError:
-    print("Error: Please enter valid integer number!")
+    print("Error: Please enter valid integer number")
 except ZeroDivisionError:
     print("Cannot divide by zero")
     
@@ -19,4 +19,5 @@ else:
     
 finally:
     print("Program executed successfuly")
+
     
