@@ -41,7 +41,7 @@ print("Length of list2:", len(list2))
 print("Max in list1: ", max([x for x in list1 if type(x) == int]))
 
 # x. Minimum element in list2
-print("Min in list2:", min(list2))
+print("Min in list2: ", min(list2))
 
 # xi. Append 100 to list2
 list2.append(100)
@@ -60,9 +60,9 @@ print("After remove(2):", list2)
 
 # xv. Reverse list1
 list1.reverse()
-print("Reversed list1:", list1)
+print("Reversed list1: ", list1)
 
 # xvi. Sort list2 in descending order
 list2.sort(reverse=True)
-print("Descending list2:", list2)
+print("Descending list2: ", list2)
 
