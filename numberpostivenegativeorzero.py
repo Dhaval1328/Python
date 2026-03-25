@@ -4,8 +4,8 @@
 num = int(input("Enter a number: "))
 
 if num > 0:
-    print("Number is Positive",num)
+    print("Number is Positive...",num)
 elif num < 0:
-    print("Number is Negative",num)
+    print("Number is Negative...",num)
 else:
-    print("Number is Zero")
+    print("Number is Zero...")
