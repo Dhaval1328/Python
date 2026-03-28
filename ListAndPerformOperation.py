@@ -4,7 +4,7 @@
 List.reverse
 List.append(40)
 List[2]=100
-print(List)"""
+print(List)  """
 
 
 List = []
