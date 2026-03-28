@@ -5,4 +5,4 @@ while count < 10:
         break
     count += 1
 
-print("Done ")
+print("Done")
