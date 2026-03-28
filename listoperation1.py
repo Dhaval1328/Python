@@ -8,7 +8,7 @@ print("Concatenated List:", list3)
 
 
 list1.remove(list1[3])
-print("After removing list1[3]:", list1)
+print("After removing list1[3]: ", list1)
 
 
 list1.append("Java")
