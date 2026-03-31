@@ -1,6 +1,6 @@
 """w a p to print the factorial of given number"""
 
-n = int(input("Enter a number: "))
+n = int(input("Enter a number:  "))
 
 fact = 1
 
