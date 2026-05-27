@@ -19,7 +19,7 @@ list2[3] = 11
 print("Updated list2:", list2)
 
 del list2[2]
-print("v. After deleting index 2 from list2:", list2)
+print("v. After deleting index 2 from list2:" , list2)
 
 
 print("vi.")
