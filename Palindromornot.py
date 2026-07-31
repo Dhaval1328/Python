@@ -1,12 +1,14 @@
-num= int(input("Enter Number :"))
-re=0
-ori=num
-while num>0:
-    ld= num %10
-    re=re*10+ld
-    num=num//10
-    
-if ori==re:
-    print("Palindrom")
+num = int(input("Enter Number: "))
+
+original = num
+re = 0
+
+while num > 0:
+    ld = num % 10
+    re = re * 10 + ld
+    num = num // 10
+
+if re == original:
+    print("Palindrome")
 else:
-    print("Not palindrom")
+    print("Not Palindrome")
