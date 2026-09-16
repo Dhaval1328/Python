@@ -1,6 +1,6 @@
 #Write A Program To Create A List And Perform Vaarious Operation List Using Menu.
 
-"""List=[10,20,30]
+"""List=[10,20,30 ]
 List.reverse
 List.append(40)
 List[2]=100
