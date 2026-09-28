@@ -1,4 +1,4 @@
-"""WAP to check whether a number is Positive, Negative, or Zero"""
+""" WAP to check whether a number is Positive, Negative, or Zero """
 
 
 num = int(input("Enter a number: "))
