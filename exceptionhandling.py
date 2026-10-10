@@ -1,8 +1,8 @@
 # WAP to display exception handling
 
 try:
-    a = int(input("Enter a number: "))
-    b = int(input("Enter another number: "))
+    a = int(input("Enter a number:"))
+    b = int(input("Enter another number:"))
     result = a/b
     print("Result is:", result)
     
